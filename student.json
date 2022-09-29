@@ -69,6 +69,15 @@
       "Hobby"    :    "Classical dancing"
 
     }
+        {
+            {        
+        "name":       "Ashish",
+      "Branch":      "Information tech",
+      "Fav_Subject":  "Maths",
+      "Hobby"    :    "Programming"
+
+    }
+   }
 
   ]
 }
